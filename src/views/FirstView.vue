@@ -1,4 +1,4 @@
 <template>
   <input type="text"></input>
-  <button>Add</button>
+  <button>Add2</button>
 </template>
