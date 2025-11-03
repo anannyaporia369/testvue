@@ -2,4 +2,8 @@
   <label for="">Test Label for branch test</label>
   <input type="text"></input>
   <button>Add2</button>
+
+  <label for="">Test Label for branch test</label>
+  <input type="text"></input>
+  <button>Minus</button>
 </template>
